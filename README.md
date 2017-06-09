@@ -1,6 +1,6 @@
-# Multiprogramacao_SO
+# Multiprogramação_SO
 
-SO-Multiprogramacao-Programacao-Concorrente
+SO-Multiprogramação-Programação-Concorrente
 
 Tipos de Sistemas Operacionais
 
